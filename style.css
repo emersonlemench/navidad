@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Festive&family=Rochester&display=swap');
+body{
+    background-image: url("./img/Background_diciembre.svg");
+    background-repeat: repeat;
+    
+}
+
+header{
+    display: flex;
+    color: white;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgba(0, 0, 0 , 0.5);
+    border-radius: 20px;
+    font-family: 'Rochester', cursive;
+}
+header .div{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;  
+}

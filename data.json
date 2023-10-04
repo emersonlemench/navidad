@@ -1,0 +1,157 @@
+{
+    "productos": [
+        {
+            "ID": 1,
+            "nombre": "KIT CUERNOS Y NARIZ",
+            "medidas": "32 X 32 CM (ARMADO)",
+            "precio_alquiler": 14000,
+            "precio_venta_acrilico": 39900,
+            "precio_venta_mdf": 26000,
+            "img": ""
+        },
+        {
+            "ID": 2,
+            "nombre": "FELIZ NAVIDAD MUERDAGO",
+            "medidas": "50 X 44 CM",
+            "precio_alquiler": 24000,
+            "precio_venta_acrilico": 102100,
+            "precio_venta_mdf": 65000,
+            "img": ""
+        },
+        {
+            "ID": 3,
+            "nombre": "TRINEO",
+            "medidas": "53 X 50 CM",
+            "precio_alquiler": 25000,
+            "precio_venta_acrilico": 101500,
+            "precio_venta_mdf": 57000,
+            "img": ""
+        },
+        {
+            "ID": 4,
+            "nombre": "MERRY CHRISTMAS ARBOL",
+            "medidas": "38 X 50 CM",
+            "precio_alquiler": 24000,
+            "precio_venta_acrilico": 80500,
+            "precio_venta_mdf": 57000,
+            "img": ""
+        },
+        {
+            "ID": 5,
+            "nombre": "PESEBRE",
+            "medidas": "35 X 50 CM",
+            "precio_alquiler": 25000,
+            "precio_venta_acrilico": 88900,
+            "precio_venta_mdf": 61000,
+            "img": ""
+        },
+        {
+            "ID": 6,
+            "nombre": "ESTRELLA Ó BOLA NAVIDEÑA",
+            "medidas": "12 X 12 CM",
+            "precio_alquiler": 3800,
+            "precio_venta_acrilico": 10900,
+            "precio_venta_mdf": 8500,
+            "img": ""
+        },
+        {
+            "ID": 7,
+            "nombre": "FELIZ AÑO NUEVO",
+            "medidas": "40 X 50 CM",
+            "precio_alquiler": 30000,
+            "precio_venta_acrilico": 90700,
+            "precio_venta_mdf": 56400,
+            "img": ""
+        },
+        {
+            "ID": 8,
+            "nombre": "PAPÁ NOEL COOL",
+            "medidas": "41 X 50 CM",
+            "precio_alquiler": 32000,
+            "precio_venta_acrilico": 93500,
+            "precio_venta_mdf": 58000,
+            "img": ""
+        },
+        {
+            "ID": 9,
+            "nombre": "FELIZ NAVIDAD GORRITO",
+            "medidas": "120 X 24 CM",
+            "precio_alquiler": 32000,
+            "precio_venta_acrilico": 115400,
+            "precio_venta_mdf": 71000,
+            "img": ""
+        },
+        {
+            "ID": 10,
+            "nombre": "ARBOLITO DE MESA",
+            "medidas": "20 X 28 CM",
+            "precio_alquiler": 8000,
+            "precio_venta_acrilico": 14000,
+            "precio_venta_mdf": 23500,
+            "img": ""
+        },
+        {
+            "ID": 11,
+            "nombre": "ARBOLITO DOBLE LINEA",
+            "medidas": "55 X 85 CM",
+            "precio_alquiler": 40000,
+            "precio_venta_acrilico": 177200,
+            "precio_venta_mdf": 96900,
+            "img": ""
+        },
+        {
+            "ID": 12,
+            "nombre": "ARBOLITO MERRY CHRISTMAS",
+            "medidas": "44 X 62 CM",
+            "precio_alquiler": 38000,
+            "precio_venta_acrilico": 116200,
+            "precio_venta_mdf": 67100,
+            "img": ""
+        },
+        {
+            "ID": 13,
+            "nombre": "COPO DE NIEVE",
+            "medidas": "20 X 23 CM",
+            "precio_alquiler": 7000,
+            "precio_venta_acrilico": 20600,
+            "precio_venta_mdf": 12700,
+            "img": ""
+        },
+        {
+            "ID": 14,
+            "nombre": "ARBOLITO SIMPLE LINEA",
+            "medidas": "23 X 40 CM",
+            "precio_alquiler": 13000,
+            "precio_venta_acrilico": 39000,
+            "precio_venta_mdf": 28000,
+            "img": ""
+        },
+        {
+            "ID": 15,
+            "nombre": "ARBOLITO SIMPLE LINEA",
+            "medidas": "23 X 40 CM",
+            "precio_alquiler": 13000,
+            "precio_venta_acrilico": 39000,
+            "precio_venta_mdf": 28000,
+            "img": ""
+        },
+        {
+            "ID": 16,
+            "nombre": "HO HO HO",
+            "medidas": "28 X 40 CM",
+            "precio_alquiler": 15000,
+            "precio_venta_acrilico": 42600,
+            "precio_venta_mdf": 24000,
+            "img": ""
+        },
+        {
+            "ID": 17,
+            "nombre": "SANTA MOSTACHO",
+            "medidas": "31 X 40 CM",
+            "precio_alquiler": 15000,
+            "precio_venta_acrilico": 45200,
+            "precio_venta_mdf": 23900,
+            "img": ""
+        }
+    ]
+}
