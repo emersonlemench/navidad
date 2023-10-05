@@ -3,155 +3,146 @@
         {
             "ID": 1,
             "nombre": "KIT CUERNOS Y NARIZ",
-            "medidas": "32 X 32 CM (ARMADO)",
+            "medidas": "32 x 32 cm (3 piezas)",
             "precio_alquiler": 14000,
             "precio_venta_acrilico": 39900,
             "precio_venta_mdf": 26000,
-            "img": ""
+            "img": "./img/KIT CUERNOS Y NARIZ.png"
         },
         {
             "ID": 2,
             "nombre": "FELIZ NAVIDAD MUERDAGO",
-            "medidas": "50 X 44 CM",
+            "medidas": "50 x 44 cm",
             "precio_alquiler": 24000,
             "precio_venta_acrilico": 102100,
             "precio_venta_mdf": 65000,
-            "img": ""
+            "img": "./img/FELIZ NAVIDAD MUERDAGO.png"
         },
         {
             "ID": 3,
             "nombre": "TRINEO",
-            "medidas": "53 X 50 CM",
+            "medidas": "53 x 50 cm",
             "precio_alquiler": 25000,
             "precio_venta_acrilico": 101500,
             "precio_venta_mdf": 57000,
-            "img": ""
+            "img": "./img/TRINEO.png"
         },
         {
             "ID": 4,
             "nombre": "MERRY CHRISTMAS ARBOL",
-            "medidas": "38 X 50 CM",
+            "medidas": "38 x 50 cm",
             "precio_alquiler": 24000,
             "precio_venta_acrilico": 80500,
             "precio_venta_mdf": 57000,
-            "img": ""
+            "img": "./img/MERRY CHRISTMAS ARBOL.png"
         },
         {
             "ID": 5,
             "nombre": "PESEBRE",
-            "medidas": "35 X 50 CM",
+            "medidas": "35 x 50 cm",
             "precio_alquiler": 25000,
             "precio_venta_acrilico": 88900,
             "precio_venta_mdf": 61000,
-            "img": ""
+            "img": "./img/PESEBRE.png"
         },
         {
             "ID": 6,
-            "nombre": "ESTRELLA Ó BOLA NAVIDEÑA",
-            "medidas": "12 X 12 CM",
+            "nombre": "ESTRELLA O BOLA NAVIDEÑA",
+            "medidas": "12 x 12 cm",
             "precio_alquiler": 3800,
             "precio_venta_acrilico": 10900,
             "precio_venta_mdf": 8500,
-            "img": ""
+            "img": "./img/ESTRELLA Ó BOLA NAVIDEÑA.png"
         },
         {
             "ID": 7,
             "nombre": "FELIZ AÑO NUEVO",
-            "medidas": "40 X 50 CM",
+            "medidas": "40 x 50 cm",
             "precio_alquiler": 30000,
             "precio_venta_acrilico": 90700,
             "precio_venta_mdf": 56400,
-            "img": ""
+            "img": "./img/FELIZ AÑO NUEVO.png"
         },
         {
             "ID": 8,
-            "nombre": "PAPÁ NOEL COOL",
-            "medidas": "41 X 50 CM",
+            "nombre": "PAPÁ NOÉL COOL",
+            "medidas": "41 x 50 cm",
             "precio_alquiler": 32000,
             "precio_venta_acrilico": 93500,
             "precio_venta_mdf": 58000,
-            "img": ""
+            "img": "./img/PAPÁ NOEL COOL.png"
         },
         {
             "ID": 9,
             "nombre": "FELIZ NAVIDAD GORRITO",
-            "medidas": "120 X 24 CM",
+            "medidas": "120 x 24 cm",
             "precio_alquiler": 32000,
             "precio_venta_acrilico": 115400,
             "precio_venta_mdf": 71000,
-            "img": ""
+            "img": "./img/FELIZ NAVIDAD GORRITO.png"
         },
         {
             "ID": 10,
             "nombre": "ARBOLITO DE MESA",
-            "medidas": "20 X 28 CM",
+            "medidas": "20 x 28 cm",
             "precio_alquiler": 8000,
             "precio_venta_acrilico": 14000,
             "precio_venta_mdf": 23500,
-            "img": ""
+            "img": "./img/ARBOLITO DE MESA.png"
         },
         {
             "ID": 11,
             "nombre": "ARBOLITO DOBLE LINEA",
-            "medidas": "55 X 85 CM",
+            "medidas": "55 x 85 cm",
             "precio_alquiler": 40000,
             "precio_venta_acrilico": 177200,
             "precio_venta_mdf": 96900,
-            "img": ""
+            "img": "./img/ARBOLITO DOBLE LINEA.png"
         },
         {
             "ID": 12,
             "nombre": "ARBOLITO MERRY CHRISTMAS",
-            "medidas": "44 X 62 CM",
+            "medidas": "44 x 62 cm",
             "precio_alquiler": 38000,
             "precio_venta_acrilico": 116200,
             "precio_venta_mdf": 67100,
-            "img": ""
+            "img": "./img/ARBOLITO MERRY CHRISTMAS.png"
         },
         {
             "ID": 13,
             "nombre": "COPO DE NIEVE",
-            "medidas": "20 X 23 CM",
+            "medidas": "20 x 23 cm",
             "precio_alquiler": 7000,
             "precio_venta_acrilico": 20600,
             "precio_venta_mdf": 12700,
-            "img": ""
+            "img": "./img/COPO DE NIEVE.png"
         },
         {
             "ID": 14,
             "nombre": "ARBOLITO SIMPLE LINEA",
-            "medidas": "23 X 40 CM",
+            "medidas": "23 x 40 cm",
             "precio_alquiler": 13000,
             "precio_venta_acrilico": 39000,
             "precio_venta_mdf": 28000,
-            "img": ""
-        },
-        {
-            "ID": 15,
-            "nombre": "ARBOLITO SIMPLE LINEA",
-            "medidas": "23 X 40 CM",
-            "precio_alquiler": 13000,
-            "precio_venta_acrilico": 39000,
-            "precio_venta_mdf": 28000,
-            "img": ""
+            "img": "./img/ARBOLITO SIMPLE LINEA.png"
         },
         {
             "ID": 16,
             "nombre": "HO HO HO",
-            "medidas": "28 X 40 CM",
+            "medidas": "28 x 40 cm",
             "precio_alquiler": 15000,
             "precio_venta_acrilico": 42600,
             "precio_venta_mdf": 24000,
-            "img": ""
+            "img": "./img/HO HO HO.png"
         },
         {
             "ID": 17,
             "nombre": "SANTA MOSTACHO",
-            "medidas": "31 X 40 CM",
+            "medidas": "31 x 40 cm",
             "precio_alquiler": 15000,
             "precio_venta_acrilico": 45200,
             "precio_venta_mdf": 23900,
-            "img": ""
+            "img": "./img/SANTA MOSTACHO.png"
         }
     ]
 }

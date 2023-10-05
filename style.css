@@ -2,20 +2,71 @@
 body{
     background-image: url("./img/Background_diciembre.svg");
     background-repeat: repeat;
+    font-family: roboto;
     
+}
+
+#product-container{
+display: flex;
+flex: 1;
+flex-wrap: wrap;
+justify-content: center;
+align-items: center;
+margin: 20px 0 20px 0;
 }
 
 header{
     display: flex;
-    color: white;
+    color: rgba(255, 255, 255, 1);
     justify-content: space-around;
     align-items: center;
     background-color: rgba(0, 0, 0 , 0.5);
     border-radius: 20px;
     font-family: 'Rochester', cursive;
+    flex-wrap: wrap;
+    padding: 10px 0 10px 0 ;
 }
 header .div{
     display: flex;
     justify-content: space-around;
     align-items: center;  
+}
+
+.product {
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    box-shadow: 10px 5px 20px rgba(0, 0, 0, 0.5);
+    margin: 10px;
+    padding: 10px;
+    background-color: #ffffffd0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    transition: transform 0.2s ease-in-out;
+    width: 320px; /* Tamaño de la tarjeta */
+}
+
+.product:hover {
+    transform: translateY(-5px); /* Efecto de elevación al pasar el mouse */
+}
+
+.product .foto img {
+    max-width:100%;
+    height: auto;
+}
+
+.product .info {
+    margin-top: 10px;
+    text-align: left;
+    color: rgba(0, 0, 0, 0.662);
+}
+
+/* Estilos adicionales según tus preferencias */
+.foto{
+    background-color: rgba(0, 0, 0,0.85);
+    border-radius: 20px;
+    width: 300px;
+    height: 300px;
+    overflow: hidden;
 }
