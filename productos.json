@@ -143,6 +143,15 @@
             "precio_venta_acrilico": 45200,
             "precio_venta_mdf": 23900,
             "img": "./img/SANTA MOSTACHO.png"
+        },
+        {
+            "ID": 18,
+            "nombre": "ARBOLITO SIMPLE LINEA MDF",
+            "medidas": "27 x 50 cm",
+            "precio_alquiler": 8000,
+            "precio_venta_acrilico": 53200,
+            "precio_venta_mdf": 32000,
+            "img": "./img/ARBOLITO SIMPLE LINEA MDF.png"
         }
     ]
 }
