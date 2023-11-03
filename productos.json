@@ -86,8 +86,8 @@
             "nombre": "ARBOLITO DE MESA",
             "medidas": "20 x 28 cm",
             "precio_alquiler": 8000,
-            "precio_venta_acrilico": 14000,
-            "precio_venta_mdf": 23500,
+            "precio_venta_acrilico": 23500,
+            "precio_venta_mdf": 14000,
             "img": "./img/ARBOLITO DE MESA.png"
         },
         {
