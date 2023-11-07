@@ -153,5 +153,15 @@
             "precio_venta_mdf": 32000,
             "img": "./img/ARBOLITO SIMPLE LINEA MDF.png"
         }
+        ,
+        {
+            "ID": 19,
+            "nombre": "FELICES FIESTAS",
+            "medidas": "100 x 26 cm",
+            "precio_alquiler":15000,
+            "precio_venta_acrilico": 96500,
+            "precio_venta_mdf":53500 ,
+            "img": "./img/FELICES FIESTAS.png"
+        }
     ]
 }
