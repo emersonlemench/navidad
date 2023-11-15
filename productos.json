@@ -163,5 +163,15 @@
             "precio_venta_mdf":53500 ,
             "img": "./img/FELICES FIESTAS.png"
         }
+        ,
+        {
+            "ID": 20,
+            "nombre": "PALABRAS NAVIDEÑAS",
+            "medidas": "CADA PALABRA SUELTA / ENTRE 12,5 CM Y 32 CM DE ANCHO X 14,5 CM DE ALTO",
+            "precio_alquiler":4668,
+            "precio_venta_acrilico": 19450,
+            "precio_venta_mdf":14600 ,
+            "img": "./img/PALABRAS NAVIDEÑAS.png"
+        }
     ]
 }
