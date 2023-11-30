@@ -173,5 +173,25 @@
             "precio_venta_mdf":14600 ,
             "img": "./img/PALABRAS NAVIDEÑAS.png"
         }
+        ,
+        {
+            "ID": 21,
+            "nombre": "FELICES FIESTAS DESTELLOS",
+            "medidas": "50 x 34 cm",
+            "precio_alquiler":8070,
+            "precio_venta_acrilico": 80700,
+            "precio_venta_mdf":51000 ,
+            "img": "./img/felices fiestas destellos.png"
+        },
+        
+        {
+            "ID": 22,
+            "nombre": "FELICES FIESTAS ESTRELLAS",
+            "medidas": "42 x 40",
+            "precio_alquiler":7800,
+            "precio_venta_acrilico": 78000,
+            "precio_venta_mdf":49900 ,
+            "img": "./img/felices fiestas con estrella.png"
+        }
     ]
 }
