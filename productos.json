@@ -193,5 +193,16 @@
             "precio_venta_mdf":49900 ,
             "img": "./img/felices fiestas con estrella.png"
         }
+        ,
+        
+        {
+            "ID": 23,
+            "nombre": "ÁRBOL FELIZ NAVIDAD",
+            "medidas": "60 x 46",
+            "precio_alquiler":12000,
+            "precio_venta_acrilico": 107000,
+            "precio_venta_mdf":49900 ,
+            "img": "./img/ARBOL FELIZ NAVIDAD.png"
+        }
     ]
 }
