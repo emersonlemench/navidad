@@ -130,9 +130,9 @@
             "ID": 16,
             "nombre": "HO HO HO",
             "medidas": "28 x 40 cm",
-            "precio_alquiler": 15000,
-            "precio_venta_acrilico": 42600,
-            "precio_venta_mdf": 24000,
+            "precio_alquiler": 32500,
+            "precio_venta_acrilico": 115000,
+            "precio_venta_mdf": 69000,
             "img": "./img/HO HO HO.png"
         },
         {
@@ -158,9 +158,9 @@
             "ID": 19,
             "nombre": "FELICES FIESTAS",
             "medidas": "100 x 26 cm",
-            "precio_alquiler":15000,
-            "precio_venta_acrilico": 96500,
-            "precio_venta_mdf":53500 ,
+            "precio_alquiler":49000,
+            "precio_venta_acrilico": 221000,
+            "precio_venta_mdf":129000 ,
             "img": "./img/FELICES FIESTAS.png"
         }
         ,
@@ -178,9 +178,9 @@
             "ID": 21,
             "nombre": "FELICES FIESTAS DESTELLOS",
             "medidas": "50 x 34 cm",
-            "precio_alquiler":8070,
-            "precio_venta_acrilico": 80700,
-            "precio_venta_mdf":51000 ,
+            "precio_alquiler":34000,
+            "precio_venta_acrilico": 172000,
+            "precio_venta_mdf":100000 ,
             "img": "./img/felices fiestas destellos.png"
         },
         
