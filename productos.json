@@ -103,27 +103,27 @@
             "ID": 12,
             "nombre": "ARBOLITO MERRY CHRISTMAS",
             "medidas": "44 x 62 cm",
-            "precio_alquiler": 39000,
-            "precio_venta_acrilico": 193900,
-            "precio_venta_mdf": 118000,
+            "precio_alquiler": 41000,
+            "precio_venta_acrilico": 237000,
+            "precio_venta_mdf": 139000,
             "img": "./img/ARBOLITO MERRY CHRISTMAS.png"
         },
         {
             "ID": 13,
             "nombre": "COPO DE NIEVE",
             "medidas": "20 x 23 cm",
-            "precio_alquiler": 7000,
-            "precio_venta_acrilico": 20600,
-            "precio_venta_mdf": 12700,
+            "precio_alquiler": 10000,
+            "precio_venta_acrilico": 49000,
+            "precio_venta_mdf": 41000,
             "img": "./img/COPO DE NIEVE.png"
         },
         {
             "ID": 14,
             "nombre": "ARBOLITO SIMPLE LINEA",
             "medidas": "23 x 40 cm",
-            "precio_alquiler": 13000,
-            "precio_venta_acrilico": 39000,
-            "precio_venta_mdf": 28000,
+            "precio_alquiler": 18000,
+            "precio_venta_acrilico": 94000,
+            "precio_venta_mdf": 59000,
             "img": "./img/ARBOLITO SIMPLE LINEA.png"
         },
         {
@@ -139,18 +139,18 @@
             "ID": 17,
             "nombre": "SANTA MOSTACHO",
             "medidas": "31 x 40 cm",
-            "precio_alquiler": 15000,
-            "precio_venta_acrilico": 61033,
-            "precio_venta_mdf": 38373,
+            "precio_alquiler": 19000,
+            "precio_venta_acrilico": 92000,
+            "precio_venta_mdf": 69000,
             "img": "./img/SANTA MOSTACHO.png"
         },
         {
             "ID": 18,
-            "nombre": "ARBOLITO SIMPLE LINEA MDF",
+            "nombre": "ARBOLITO SIMPLE LINEA FELIZ NAVIDAD",
             "medidas": "27 x 50 cm",
-            "precio_alquiler": 8000,
-            "precio_venta_acrilico": 53200,
-            "precio_venta_mdf": 32000,
+            "precio_alquiler": 19000,
+            "precio_venta_acrilico": 139000,
+            "precio_venta_mdf": 89000,
             "img": "./img/ARBOLITO SIMPLE LINEA MDF.png"
         }
         ,
@@ -168,9 +168,9 @@
             "ID": 20,
             "nombre": "PALABRAS NAVIDEÑAS",
             "medidas": "14,5 ALTO x proporción",
-            "precio_alquiler":4668,
-            "precio_venta_acrilico": 19450,
-            "precio_venta_mdf":14600 ,
+            "precio_alquiler":7000,
+            "precio_venta_acrilico": 49000,
+            "precio_venta_mdf":38000 ,
             "img": "./img/PALABRAS NAVIDEÑAS.png"
         }
         ,
@@ -188,9 +188,9 @@
             "ID": 22,
             "nombre": "FELICES FIESTAS ESTRELLAS",
             "medidas": "42 x 40",
-            "precio_alquiler":7800,
-            "precio_venta_acrilico": 78000,
-            "precio_venta_mdf":49900 ,
+            "precio_alquiler":21000,
+            "precio_venta_acrilico": 169000,
+            "precio_venta_mdf":104900 ,
             "img": "./img/felices fiestas con estrella.png"
         }
         ,
@@ -199,9 +199,9 @@
             "ID": 23,
             "nombre": "ÁRBOL FELIZ NAVIDAD",
             "medidas": "60 x 46",
-            "precio_alquiler":12000,
-            "precio_venta_acrilico": 107000,
-            "precio_venta_mdf":49900 ,
+            "precio_alquiler":29000,
+            "precio_venta_acrilico": 234000,
+            "precio_venta_mdf":136000 ,
             "img": "./img/ARBOL FELIZ NAVIDAD.png"
         }
     ]
