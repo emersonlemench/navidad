@@ -17,8 +17,8 @@ document.addEventListener('DOMContentLoaded', () => {
                   <h3>${product.nombre}</h3>
                   <p>Medidas: ${product.medidas}</p>
                   <p>Precio de alquiler: $${product.precio_alquiler}</p>
-                  <p>Precio de venta (Acrílico): $${product.precio_venta_acrilico} + IVA</p>
-                  <p>Precio de venta (MDF): $${product.precio_venta_mdf} + IVA</p>
+                  <p>Precio de venta (Acrílico): $${product.precio_venta_acrilico} INCLUYE IVA</p>
+                  <p>Precio de venta (MDF): $${product.precio_venta_mdf} INCLUYE IVA</p>
               </div>
               `;
               productContainer.appendChild(productElement);
