@@ -1,14 +1,6 @@
 {
     "productos": [
-        // {
-        //     "ID": 1,
-        //     "nombre": "KIT CUERNOS Y NARIZ",
-        //     "medidas": "32 x 32 cm (3 piezas)",
-        //     "precio_alquiler": 10500,
-        //     "precio_venta_acrilico": 52000,
-        //     "precio_venta_mdf": 48000,
-        //     "img": "./img/KIT CUERNOS Y NARIZ.png"
-        // },
+  
         {
             "ID": 2,
             "nombre": "FELIZ NAVIDAD MUERDAGO",
@@ -18,15 +10,7 @@
             "precio_venta_mdf": 39000,
             "img": "./img/FELIZ NAVIDAD MUERDAGO.png"
         },
-        // {
-        //     "ID": 3,
-        //     "nombre": "TRINEO",
-        //     "medidas": "53 x 50 cm",
-        //     "precio_alquiler": 44000,
-        //     "precio_venta_acrilico": 224000,
-        //     "precio_venta_mdf": 122000,
-        //     "img": "./img/TRINEO.png"
-        // },
+      
         {
             "ID": 4,
             "nombre": "MERRY CHRISTMAS ARBOL",
@@ -45,15 +29,7 @@
             "precio_venta_mdf": 122000,
             "img": "./img/PESEBRE.png"
         },
-        // {
-        //     "ID": 6,
-        //     "nombre": "ESTRELLA O BOLA NAVIDEÑA",
-        //     "medidas": "12 x 12 cm",
-        //     "precio_alquiler": 4500,
-        //     "precio_venta_acrilico": 21900,
-        //     "precio_venta_mdf": 19000,
-        //     "img": "./img/ESTRELLA Ó BOLA NAVIDEÑA.png"
-        // },
+      
         {
             "ID": 7,
             "nombre": "FELIZ AÑO NUEVO",
@@ -63,15 +39,7 @@
             "precio_venta_mdf": 124000,
             "img": "./img/FELIZ AÑO NUEVO.png"
         },
-        // {
-        //     "ID": 8,
-        //     "nombre": "PAPÁ NOÉL COOL",
-        //     "medidas": "41 x 50 cm",
-        //     "precio_alquiler": 41000,
-        //     "precio_venta_acrilico": 213500,
-        //     "precio_venta_mdf": 132000,
-        //     "img": "./img/PAPÁ NOEL COOL.png"
-        // },
+      
         {
             "ID": 9,
             "nombre": "FELIZ NAVIDAD GORRITO",
@@ -99,24 +67,7 @@
             "precio_venta_mdf": 192000,
             "img": "./img/ARBOLITO DOBLE LINEA.png"
         },
-        // {
-        //     "ID": 12,
-        //     "nombre": "ARBOLITO MERRY CHRISTMAS",
-        //     "medidas": "44 x 62 cm",
-        //     "precio_alquiler": 41000,
-        //     "precio_venta_acrilico": 237000,
-        //     "precio_venta_mdf": 139000,
-        //     "img": "./img/ARBOLITO MERRY CHRISTMAS.png"
-        // },
-        // {
-        //     "ID": 13,
-        //     "nombre": "COPO DE NIEVE",
-        //     "medidas": "20 x 23 cm",
-        //     "precio_alquiler": 10000,
-        //     "precio_venta_acrilico": 49000,
-        //     "precio_venta_mdf": 41000,
-        //     "img": "./img/COPO DE NIEVE.png"
-        // },
+    
         {
             "ID": 14,
             "nombre": "ARBOLITO SIMPLE LINEA",
@@ -126,15 +77,7 @@
             "precio_venta_mdf": 59000,
             "img": "./img/ARBOLITO SIMPLE LINEA.png"
         },
-        // {
-        //     "ID": 16,
-        //     "nombre": "HO HO HO",
-        //     "medidas": "28 x 40 cm",
-        //     "precio_alquiler": 32500,
-        //     "precio_venta_acrilico": 115000,
-        //     "precio_venta_mdf": 69000,
-        //     "img": "./img/HO HO HO.png"
-        // },
+  
         {
             "ID": 17,
             "nombre": "SANTA MOSTACHO",
@@ -193,16 +136,6 @@
             "precio_venta_mdf":104900 ,
             "img": "./img/felices fiestas con estrella.png"
         }
-        // ,
-        
-        // {
-        //     "ID": 23,
-        //     "nombre": "ÁRBOL FELIZ NAVIDAD",
-        //     "medidas": "60 x 46",
-        //     "precio_alquiler":29000,
-        //     "precio_venta_acrilico": 234000,
-        //     "precio_venta_mdf":136000 ,
-        //     "img": "./img/ARBOL FELIZ NAVIDAD.png"
-        // }
+     
     ]
 }
