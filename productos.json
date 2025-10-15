@@ -5,9 +5,9 @@
             "ID": 2,
             "nombre": "FELIZ NAVIDAD MUERDAGO",
             "medidas": "50 x 44 cm",
-            "precio_alquiler": 107000+IVA,
-            "precio_venta_acrilico": 214000+IVA,
-            "precio_venta_mdf": 160000+IVA,
+            "precio_alquiler": "107000+IVA",
+            "precio_venta_acrilico": "214000+IVA",
+            "precio_venta_mdf": "160000+IVA",
             "img": "./img/FELIZ NAVIDAD MUERDAGO.png"
         },
       
@@ -15,18 +15,18 @@
             "ID": 4,
             "nombre": "MERRY CHRISTMAS ARBOL",
             "medidas": "38 x 50 cm",
-            "precio_alquiler": 90000+IVA,
-            "precio_venta_acrilico": 183000+IVA,
-            "precio_venta_mdf": 120000+IVA,
+            "precio_alquiler": "90000+IVA",
+            "precio_venta_acrilico": "183000+IVA",
+            "precio_venta_mdf": "120000+IVA",
             "img": "./img/MERRY CHRISTMAS ARBOL.png"
         },
         {
             "ID": 5,
             "nombre": "PESEBRE",
             "medidas": "35 x 50 cm",
-            "precio_alquiler": 90000+IVA,
-            "precio_venta_acrilico": 183000+IVA,
-            "precio_venta_mdf": 120000+IVA,
+            "precio_alquiler": "90000+IVA",
+            "precio_venta_acrilico": "183000+IVA",
+            "precio_venta_mdf": "120000+IVA",
             "img": "./img/PESEBRE.png"
         },
       
@@ -34,9 +34,9 @@
             "ID": 7,
             "nombre": "FELIZ AÑO NUEVO",
             "medidas": "40 x 50 cm",
-            "precio_alquiler": 100000+IVA,
-            "precio_venta_acrilico": 199000+IVA,
-            "precio_venta_mdf": 124000+IVA,
+            "precio_alquiler": "100000+IVA",
+            "precio_venta_acrilico": "199000+IVA",
+            "precio_venta_mdf": "124000+IVA",
             "img": "./img/FELIZ AÑO NUEVO.png"
         },
       
@@ -44,27 +44,27 @@
             "ID": 9,
             "nombre": "FELIZ NAVIDAD GORRITO",
             "medidas": "120 x 24 cm",
-            "precio_alquiler": 105000+IVA,
-            "precio_venta_acrilico": 230000+IVA,
-            "precio_venta_mdf": 125000+IVA,
+            "precio_alquiler": "105000+IVA",
+            "precio_venta_acrilico": "230000+IVA",
+            "precio_venta_mdf": "125000+IVA",
             "img": "./img/FELIZ NAVIDAD GORRITO.png"
         },
         {
             "ID": 10,
             "nombre": "ARBOLITO DE MESA",
             "medidas": "20 x 28 cm",
-            "precio_alquiler": 20000+IVA,
-            "precio_venta_acrilico": 49000+IVA,
-            "precio_venta_mdf": 32000+IVA,
+            "precio_alquiler": "20000+IVA",
+            "precio_venta_acrilico": "49000+IVA",
+            "precio_venta_mdf": "32000+IVA",
             "img": "./img/ARBOLITO DE MESA.png"
         },
         {
             "ID": 11,
             "nombre": "ARBOLITO DOBLE LINEA",
             "medidas": "55 x 85 cm",
-            "precio_alquiler": 110000+IVA,
-            "precio_venta_acrilico": 330500+IVA,
-            "precio_venta_mdf": 214800+IVA,
+            "precio_alquiler": "110000+IVA",
+            "precio_venta_acrilico": "330500+IVA",
+            "precio_venta_mdf": "214800+IVA",
             "img": "./img/ARBOLITO DOBLE LINEA.png"
         },
     
@@ -72,9 +72,9 @@
             "ID": 14,
             "nombre": "ARBOLITO SIMPLE LINEA",
             "medidas": "23 x 40 cm",
-            "precio_alquiler": 38000+IVA,
-            "precio_venta_acrilico": 87000+IVA,
-            "precio_venta_mdf": 54600+IVA,
+            "precio_alquiler": "38000+IVA",
+            "precio_venta_acrilico": "87000+IVA",
+            "precio_venta_mdf": "54600+IVA",
             "img": "./img/ARBOLITO SIMPLE LINEA.png"
         },
   
@@ -82,18 +82,18 @@
             "ID": 17,
             "nombre": "SANTA MOSTACHO",
             "medidas": "31 x 40 cm",
-            "precio_alquiler": 30000+IVA,
-            "precio_venta_acrilico": 95000+IVA,
-            "precio_venta_mdf": 52000+IVA,
+            "precio_alquiler": "30000+IVA",
+            "precio_venta_acrilico": "95000+IVA",
+            "precio_venta_mdf": "52000+IVA",
             "img": "./img/SANTA MOSTACHO.png"
         },
         {
             "ID": 18,
             "nombre": "ARBOLITO SIMPLE LINEA FELIZ NAVIDAD",
             "medidas": "27 x 50 cm",
-            "precio_alquiler": 40000+IVA,
-            "precio_venta_acrilico": 86800+IVA,
-            "precio_venta_mdf": 77700+IVA,
+            "precio_alquiler": "40000+IVA",
+            "precio_venta_acrilico": "86800+IVA",
+            "precio_venta_mdf": "77700+IVA",
             "img": "./img/ARBOLITO SIMPLE LINEA MDF.png"
         }
         ,
@@ -101,9 +101,9 @@
             "ID": 19,
             "nombre": "FELICES FIESTAS",
             "medidas": "80 x 22 cm",
-            "precio_alquiler":49000+IVA,
-            "precio_venta_acrilico": 139000,
-            "precio_venta_mdf":75000+IVA,
+            "precio_alquiler":"49000+IVA",
+            "precio_venta_acrilico": "139000",
+            "precio_venta_mdf":"75000+IVA",
             "img": "./img/FELICES FIESTAS.png"
         }
         ,
@@ -111,9 +111,9 @@
             "ID": 20,
             "nombre": "PALABRAS NAVIDEÑAS",
             "medidas": "14,5 ALTO x proporción",
-            "precio_alquiler":7000,
-            "precio_venta_acrilico": 49000,
-            "precio_venta_mdf":38000 ,
+            "precio_alquiler":"7000+IVA",
+            "precio_venta_acrilico": "49000+IVA",
+            "precio_venta_mdf":"38000+IVA" ,
             "img": "./img/PALABRAS NAVIDEÑAS.png"
         }
         ,
@@ -121,9 +121,9 @@
             "ID": 21,
             "nombre": "FELICES FIESTAS DESTELLOS",
             "medidas": "50 x 34 cm",
-            "precio_alquiler":65000+IVA,
-            "precio_venta_acrilico": 142000+IVA,
-            "precio_venta_mdf":82000+IVA,
+            "precio_alquiler":"65000+IVA",
+            "precio_venta_acrilico": "142000+IVA",
+            "precio_venta_mdf":"82000+IVA",
             "img": "./img/felices fiestas destellos.png"
         },
         
@@ -131,9 +131,9 @@
             "ID": 22,
             "nombre": "FELICES FIESTAS ESTRELLAS",
             "medidas": "42 x 40",
-            "precio_alquiler":70000+IVA,
-            "precio_venta_acrilico": 135800+IVA,
-            "precio_venta_mdf":75000+IVA,
+            "precio_alquiler":"70000+IVA",
+            "precio_venta_acrilico": "135800+IVA",
+            "precio_venta_mdf":"75000+IVA",
             "img": "./img/felices fiestas con estrella.png"
         }
      
