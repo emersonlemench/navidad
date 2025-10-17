@@ -138,7 +138,7 @@
     {
       "ID": 24,
       "nombre": "ARBOLITO LASER 3D",
-      "medidas": "20 x 12 cm",
+      "medidas": "10 x 17 cm",
       "precio_alquiler": "0+IVA",
       "precio_venta_acrilico": "64000+IVA",
       "precio_venta_mdf": "64000+IVA",
@@ -147,7 +147,7 @@
     {
       "ID": 25,
       "nombre": "RENO LASER",
-      "medidas": "20 x 12 cm",
+      "medidas": "10 x 17 cm",
       "precio_alquiler": "0+IVA",
       "precio_venta_acrilico": "64000+IVA",
       "precio_venta_mdf": "64000+IVA",
@@ -156,7 +156,7 @@
     {
       "ID": 26,
       "nombre": "ARBOLITO CON BOLITA LASER",
-      "medidas": "20 x 12 cm",
+      "medidas": "10 x 17 cm",
       "precio_alquiler": "0+IVA",
       "precio_venta_acrilico": "64000+IVA",
       "precio_venta_mdf": "64000+IVA",
@@ -166,7 +166,6 @@
       "ID": 27,
       "nombre": "ARBOLITO PIXEL LED",
       "medidas": "32 x 18 cm",
-      "precio_alquiler": "0+IVA",
       "precio_venta_acrilico": "99990+IVA",
       "precio_venta_mdf": "99990+IVA",
       "img": "./img/Arbolito pixel@0.5x.png"
@@ -175,7 +174,6 @@
       "ID": 28,
       "nombre": "PALABRAS X3 MISMA FUENTE",
       "medidas": "variable",
-      "precio_alquiler": "0+IVA",
       "precio_venta_acrilico": "118000+IVA",
       "precio_venta_mdf": "84000+IVA",
       "img": "./img/PALABRAS NAVIDEÑAS.png"
@@ -184,7 +182,6 @@
       "ID": 29,
       "nombre": "PALABRAS X5 MISMA FUENTE",
       "medidas": "variable",
-      "precio_alquiler": "0+IVA",
       "precio_venta_acrilico": "227000+IVA",
       "precio_venta_mdf": "159000+IVA",
       "img": "./img/PALABRAS NAVIDEÑAS.png"
@@ -193,7 +190,6 @@
       "ID": 30,
       "nombre": "PALABRAS X7 MISMA FUENTE",
       "medidas": "variable",
-      "precio_alquiler": "0+IVA",
       "precio_venta_acrilico": "298000+IVA",
       "precio_venta_mdf": "100000+IVA",
       "img": "./img/PALABRAS NAVIDEÑAS.png"
@@ -202,16 +198,14 @@
       "ID": 31,
       "nombre": "BOLITAS DE NAVIDAD 6unidades ACRILICO GRABADO",
       "medidas": "6 unidades",
-      "precio_alquiler": "0+IVA",
       "precio_venta_acrilico": "29600+IVA",
       "precio_venta_mdf": "0+IVA",
-      "img": "./img/Pack Bolitas Navideñas Personalizadas.png.png"
+      "img": "./img/Pack Bolitas Navideñas Personalizadas.png"
     },
     {
       "ID": 32,
       "nombre": "BOLITAS DE NAVIDAD 12unidades ACRILICO GRABADO",
       "medidas": "12 unidades",
-      "precio_alquiler": "0+IVA",
       "precio_venta_acrilico": "50400+IVA",
       "precio_venta_mdf": "0+IVA",
       "img": "./img/Pack Bolitas Navideñas Personalizadas.png"
@@ -220,7 +214,6 @@
       "ID": 33,
       "nombre": "BOLITAS DE NAVIDAD 24unidades ACRILICO GRABADO",
       "medidas": "24 unidades",
-      "precio_alquiler": "0+IVA",
       "precio_venta_acrilico": "75000+IVA",
       "precio_venta_mdf": "0+IVA",
       "img": "./img/Pack Bolitas Navideñas Personalizadas.png"
