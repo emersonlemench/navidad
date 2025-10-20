@@ -130,7 +130,6 @@
       "ID": 23,
       "nombre": "PESEBRE LASER 3D",
       "medidas": "10 x 17 cm",
-      "precio_alquiler": "0+IVA",
       "precio_venta_acrilico": "59900+IVA",
       "precio_venta_mdf": "59900+IVA",
       "img": "./img/pesebre base rgb@0.5x.png"
@@ -139,7 +138,6 @@
       "ID": 24,
       "nombre": "ARBOLITO LASER 3D",
       "medidas": "10 x 17 cm",
-      "precio_alquiler": "0+IVA",
       "precio_venta_acrilico": "64000+IVA",
       "precio_venta_mdf": "64000+IVA",
       "img": "./img/Arbolito base rgb@0.5x.png"
@@ -148,7 +146,6 @@
       "ID": 25,
       "nombre": "RENO LASER",
       "medidas": "10 x 17 cm",
-      "precio_alquiler": "0+IVA",
       "precio_venta_acrilico": "64000+IVA",
       "precio_venta_mdf": "64000+IVA",
       "img": "./img/reno base rgb@0.5x.png"
@@ -157,7 +154,6 @@
       "ID": 26,
       "nombre": "ARBOLITO CON BOLITA LASER",
       "medidas": "10 x 17 cm",
-      "precio_alquiler": "0+IVA",
       "precio_venta_acrilico": "64000+IVA",
       "precio_venta_mdf": "64000+IVA",
       "img": "./img/arbol con bolita base rgb@0.5x.png"
@@ -199,7 +195,6 @@
       "nombre": "SET DE BOLITAS DE NAVIDAD 6unidades ACRILICO",
       "medidas": "6 unidades",
       "precio_venta_acrilico": "29600+IVA",
-      "precio_venta_mdf": "0+IVA",
       "img": "./img/Pack Bolitas Navideñas Personalizadas.png"
     },
     {
@@ -207,7 +202,6 @@
       "nombre": "SET BOLITAS DE NAVIDAD 12unidades ACRILICO",
       "medidas": "12 unidades",
       "precio_venta_acrilico": "50400+IVA",
-      "precio_venta_mdf": "0+IVA",
       "img": "./img/Pack Bolitas Navideñas Personalizadas.png"
     },
     {
@@ -215,7 +209,6 @@
       "nombre": "SET BOLITAS DE NAVIDAD 24unidades ACRILICO",
       "medidas": "24 unidades",
       "precio_venta_acrilico": "75000+IVA",
-      "precio_venta_mdf": "0+IVA",
       "img": "./img/Pack Bolitas Navideñas Personalizadas.png"
     }
   ]
