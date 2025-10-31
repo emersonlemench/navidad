@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
           : '';
 
         const precioMdfHTML = product.precio_venta_mdf
-          ? `<p>Precio de venta (MDF): $${product.precio_venta_mdf} INCLUYE IVA</p>`
+          ? `<p>Precio de venta (MDF): $${product.precio_venta_mdf}</p>`
           : '';
 
         productElement.innerHTML = `
@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', () => {
             <h3>${product.nombre}</h3>
             <p>Medidas: ${product.medidas}</p>
             ${precioAlquilerHTML}
-            <p>Precio de venta (Acrílico): $${product.precio_venta_acrilico} INCLUYE IVA</p>
+            <p>Precio de venta (Acrílico): $${product.precio_venta_acrilico}</p>
             ${precioMdfHTML}
           </div>
         `;
