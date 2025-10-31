@@ -131,7 +131,6 @@
       "nombre": "PESEBRE LASER 3D",
       "medidas": "10 x 17 cm",
       "precio_venta_acrilico": "59900+IVA",
-      "precio_venta_mdf": "59900+IVA",
       "img": "./img/pesebre base rgb@0.5x.png"
     },
     {
@@ -139,7 +138,6 @@
       "nombre": "ARBOLITO LASER 3D",
       "medidas": "10 x 17 cm",
       "precio_venta_acrilico": "64000+IVA",
-      "precio_venta_mdf": "64000+IVA",
       "img": "./img/Arbolito base rgb@0.5x.png"
     },
     {
@@ -147,7 +145,7 @@
       "nombre": "RENO LASER",
       "medidas": "10 x 17 cm",
       "precio_venta_acrilico": "64000+IVA",
-      "precio_venta_mdf": "64000+IVA",
+
       "img": "./img/reno base rgb@0.5x.png"
     },
     {
